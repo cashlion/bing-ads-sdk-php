@@ -671,6 +671,11 @@ namespace BingAds\Reporting
         /** The Title element of a MobileAd or TextAd. */
         const AdTitle = 'AdTitle';
 
+        /** Expanded Text Ads - Title Part 1 and 2. */
+        const TitlePart1 = 'TitlePart1';
+
+        const TitlePart2 = 'TitlePart2';
+
         /** The Text element of a MobileAd or TextAd. */
         const AdDescription = 'AdDescription';
 
